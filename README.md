@@ -17,7 +17,7 @@ Exclusive and free program, promoted by Google for teaching WEB technologies.
 <br>
 
 <p align="center">
-  <img alt="project time" src=".gitHub/preview.jpg" width="100%">
+  <img alt="project time" src="./imagens/whattimeis.png" width="100%">
 </p>
 
 ## 🚀 Technology
